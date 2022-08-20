@@ -1,0 +1,7 @@
+# sudo apt update &&  sudo apt-get install ffmpeg libsm6 libxext6  -y
+numpy
+progressbar
+tensorflow
+gym[box2d,atari,accept-rom-license]==0.21.0
+# ale-py
+opencv-python
